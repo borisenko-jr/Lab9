@@ -1,0 +1,7 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_9\AssVersion\AssVersion\obj\Debug\AssVersion.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_9\AssVersion\AssVersion\obj\Debug\AssVersion.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_9\AssVersion\AssVersion\bin\Debug\AssVersion.dll.config
+C:\Users\ensody\Desktop\sync\proj\Lab_9\AssVersion\AssVersion\bin\Debug\AssVersion.dll
+C:\Users\ensody\Desktop\sync\proj\Lab_9\AssVersion\AssVersion\bin\Debug\AssVersion.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_9\AssVersion\AssVersion\obj\Debug\AssVersion.dll
+C:\Users\ensody\Desktop\sync\proj\Lab_9\AssVersion\AssVersion\obj\Debug\AssVersion.pdb

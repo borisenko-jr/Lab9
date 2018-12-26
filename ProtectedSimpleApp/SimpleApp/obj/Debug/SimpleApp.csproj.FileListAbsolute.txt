@@ -1,0 +1,13 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_9\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe.config
+C:\Users\ensody\Desktop\sync\proj\Lab_9\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_9\SimpleApp\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_9\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_9\SimpleApp\SimpleApp\obj\Debug\SimpleApp.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_9\SimpleApp\SimpleApp\obj\Debug\SimpleApp.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_9\ProtectedSimpleApp\SimpleApp\bin\Debug\SimpleApp.exe.config
+C:\Users\ensody\Desktop\sync\proj\Lab_9\ProtectedSimpleApp\SimpleApp\bin\Debug\SimpleApp.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_9\ProtectedSimpleApp\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_9\ProtectedSimpleApp\SimpleApp\obj\Debug\SimpleApp.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_9\ProtectedSimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_9\ProtectedSimpleApp\SimpleApp\obj\Debug\SimpleApp.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_9\ProtectedSimpleApp\SimpleApp\obj\Debug\SimpleApp.pdb

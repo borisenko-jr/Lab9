@@ -1,0 +1,6 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_9\InstallerClass\bin\Release\InstallerClass.dll
+C:\Users\ensody\Desktop\sync\proj\Lab_9\InstallerClass\obj\Release\InstallerClass.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_9\InstallerClass\obj\Release\InstallerClass.CustomActionDB.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_9\InstallerClass\obj\Release\InstallerClass.csproj.GenerateResource.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_9\InstallerClass\obj\Release\InstallerClass.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_9\InstallerClass\obj\Release\InstallerClass.dll

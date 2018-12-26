@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstallerClass", "InstallerClass.csproj", "{7259EB50-798A-4EF7-8954-54DFC38DC0BB}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CustomActionSetup", "..\CustomActionSetup\CustomActionSetup.vdproj", "{2838D1FA-70BA-4D4F-B817-606E712F1515}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{7259EB50-798A-4EF7-8954-54DFC38DC0BB}.Debug.ActiveCfg = Debug|.NET
+		{7259EB50-798A-4EF7-8954-54DFC38DC0BB}.Debug.Build.0 = Debug|.NET
+		{7259EB50-798A-4EF7-8954-54DFC38DC0BB}.Release.ActiveCfg = Release|.NET
+		{7259EB50-798A-4EF7-8954-54DFC38DC0BB}.Release.Build.0 = Release|.NET
+		{2838D1FA-70BA-4D4F-B817-606E712F1515}.Debug.ActiveCfg = Debug
+		{2838D1FA-70BA-4D4F-B817-606E712F1515}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

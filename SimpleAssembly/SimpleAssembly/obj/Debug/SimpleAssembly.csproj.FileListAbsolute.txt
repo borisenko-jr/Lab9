@@ -1,0 +1,7 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_9\SimpleAssembly\SimpleAssembly\obj\Debug\SimpleAssembly.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_9\SimpleAssembly\SimpleAssembly\obj\Debug\SimpleAssembly.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_9\SimpleAssembly\SimpleAssembly\bin\Debug\SimpleAssembly.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_9\SimpleAssembly\SimpleAssembly\obj\Debug\SimpleAssembly.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_9\SimpleAssembly\SimpleAssembly\bin\Debug\SimpleAssembly.dll.config
+C:\Users\ensody\Desktop\sync\proj\Lab_9\SimpleAssembly\SimpleAssembly\bin\Debug\SimpleAssembly.dll
+C:\Users\ensody\Desktop\sync\proj\Lab_9\SimpleAssembly\SimpleAssembly\obj\Debug\SimpleAssembly.dll

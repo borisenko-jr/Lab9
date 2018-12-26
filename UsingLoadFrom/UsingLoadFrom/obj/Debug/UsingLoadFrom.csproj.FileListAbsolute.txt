@@ -1,0 +1,7 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_9\UsingLoadFrom\UsingLoadFrom\bin\Debug\UsingLoadFrom.exe.config
+C:\Users\ensody\Desktop\sync\proj\Lab_9\UsingLoadFrom\UsingLoadFrom\bin\Debug\UsingLoadFrom.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_9\UsingLoadFrom\UsingLoadFrom\bin\Debug\UsingLoadFrom.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_9\UsingLoadFrom\UsingLoadFrom\obj\Debug\UsingLoadFrom.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_9\UsingLoadFrom\UsingLoadFrom\obj\Debug\UsingLoadFrom.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_9\UsingLoadFrom\UsingLoadFrom\obj\Debug\UsingLoadFrom.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_9\UsingLoadFrom\UsingLoadFrom\obj\Debug\UsingLoadFrom.pdb
